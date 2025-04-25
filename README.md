@@ -21,7 +21,7 @@ The best part? After 2 days of using this:
 
 <div align="center">
   <h4>Demo from Telegram</h4>
-<img src="telegram.jpeg">
+<img src="telegram.jpeg" height="40%" width="auto">
   
 <img src="openai_billing.jpeg">
 </div>
