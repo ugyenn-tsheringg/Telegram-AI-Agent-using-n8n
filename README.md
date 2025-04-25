@@ -13,20 +13,24 @@ All through natural chat - no complex interfaces, just simple Telegram messages.
 <img src="dashboard.jpeg">
 <h4>Main Dashboard from n8n</h4>
 </div>
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20;">
-    <img src="telegram.jpeg" height="400">
-  </div>
-  <div style="flex: 1;">
-    <h4>Demo from Telegram</h4>
-    <p><strong>The best part? After 2 days of using this:</strong></p>
-    <ul>
-      <li>✓ It's already saving me time daily</li>
-      <li>✓ Cost me just $0.01 in OpenAI API usage for gpt4o-mini with 34k tokens (fascinating isn't it?)</li>
-      <li>✓ I made this using n8n - a great tool for connecting apps without coding. If you want to build something similar, try n8n or Make.com. They make automation easy!</li>
-    </ul>
-  </div>
-</div>
+
+<table>
+  <tr>
+    <td>
+      <img src="telegram.jpeg" height="400">
+    </td>
+    <td style="padding-left: 20px;">
+      <p>The best part?</p>
+      <ul>
+        <li>✓ It's already saving me time daily</li>
+        <li>✓ Cost me just $0.01 in OpenAI API usage for gpt4o-mini with 34k tokens (fascinating isn't it?)</li>
+        <li>✓ I made this using <strong>n8n</strong> - a great tool for connecting apps without coding.</li>
+      </ul>
+      <p>If you want to build something similar, try <strong>n8n</strong> or <strong>Make.com</strong>. They make automation easy!</p>
+    </td>
+  </tr>
+</table>
+
 
 <div align="center">
 <img src="openai_billing.jpeg">
