@@ -14,7 +14,7 @@ All through natural chat - no complex interfaces, just simple Telegram messages.
 <h4>Main Dashboard from n8n</h4>
 </div>
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
+  <div style="flex: 1; padding-right: 20;">
     <img src="telegram.jpeg" height="400">
   </div>
   <div style="flex: 1;">
