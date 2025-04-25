@@ -15,13 +15,13 @@ All through natural chat - no complex interfaces, just simple Telegram messages.
 </div>
 
 The best part? After 2 days of using this:
-✓ It's already saving me time daily
-✓ Cost me just $0.01 in OpenAI API usage for gpt4o-mini with 34k tokens (fascinating isn't it?)
-✓ I made this using n8n - a great tool for connecting apps without coding. If you want to build something similar, try n8n or Make.com. They make automation easy!
+✓ It's already saving me time daily  
+✓ Cost me just $0.01 in OpenAI API usage for gpt4o-mini with 34k tokens (fascinating isn't it?)  
+✓ I made this using n8n - a great tool for connecting apps without coding. If you want to build something similar, try n8n or Make.com. They make automation easy!  
 
 <div align="center">
   <h4>Demo from Telegram</h4>
-<img src="telegram">
+<img src="telegram.jpeg">
   
 <img src="openai_billing.jpeg">
 </div>
