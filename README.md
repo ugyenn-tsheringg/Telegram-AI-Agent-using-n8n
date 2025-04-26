@@ -36,6 +36,7 @@ All through natural chat - no complex interfaces, just simple Telegram messages.
 <img src="openai_billing.jpeg">
 </div>
 
+## Future Work
 Right now, I'm working on adding Google Docs and Google Slides and other apps support (though not all features are available yet).
 
 AI can make our work much simpler. Have you tried building something like this?
