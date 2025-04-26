@@ -2,7 +2,7 @@
 
 I believe 2025 will be the year of AI Agents and I'm already building my second AI Agent. 
 
-Just like chatting with ChatGPT, I can now simply type commands or send voice note in Telegram and my AI agent handles everything:
+Just like chatting with ChatGPT, I can now simply type commands or send voice note in Telegram and my AI agent handles everything:  
 • Summarizing this week's emails  
 • Scheduling Google Calendar meetings  
 • Even sending meeting invitations  
